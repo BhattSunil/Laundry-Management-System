@@ -39,6 +39,16 @@ This project manages customers and their laundry orders, including service detai
 
 ---
 
+
+##SnapShots
+
+<img width="1910" height="945" alt="Screenshot 2025-12-05 124513" src="https://github.com/user-attachments/assets/95033b6b-c277-4460-981d-19bd94129524" />
+
+<img width="1912" height="855" alt="Screenshot 2025-12-05 124651" src="https://github.com/user-attachments/assets/bf3d9a02-b72e-43ba-b64d-39376277da33" />
+
+<img width="1913" height="876" alt="Screenshot 2025-12-05 124715" src="https://github.com/user-attachments/assets/ac92aa35-9a35-4e59-9fff-727d66487588" />
+
+
 ## 📁 Project Structure
 
 ```bash
@@ -66,9 +76,5 @@ Laundry-Management-System/
 │
 └── .gitignore
 
-##SnapShots
 
-<img width="1910" height="945" alt="image" src="https://github.com/user-attachments/assets/361092d4-59a8-4ad1-9807-7c195ac36fda" />
-<img width="1912" height="855" alt="image" src="https://github.com/user-attachments/assets/9ae3d652-1adc-41d3-af01-a615098debe0" />
-<img width="1913" height="876" alt="image" src="https://github.com/user-attachments/assets/d34fe8ec-4eb0-461a-94c8-e7d81d0549ab" />
 
