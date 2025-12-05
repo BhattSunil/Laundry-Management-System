@@ -1,4 +1,4 @@
-# 🧺 Laundry Management System
+<img width="1912" height="855" alt="image" src="https://github.com/user-attachments/assets/c6ac543e-9bc6-49d2-85eb-60da3f2f5ca5" /># 🧺 Laundry Management System
 
 A full-stack Laundry Management System built with **React** (Frontend) and **Node.js + Express + MySQL** (Backend).  
 This project manages customers and their laundry orders, including service details, quantities, and order status tracking.
@@ -65,3 +65,10 @@ Laundry-Management-System/
 │   └── ...
 │
 └── .gitignore
+
+##SnapShots
+
+<img width="1910" height="945" alt="image" src="https://github.com/user-attachments/assets/361092d4-59a8-4ad1-9807-7c195ac36fda" />
+<img width="1912" height="855" alt="image" src="https://github.com/user-attachments/assets/9ae3d652-1adc-41d3-af01-a615098debe0" />
+<img width="1913" height="876" alt="image" src="https://github.com/user-attachments/assets/d34fe8ec-4eb0-461a-94c8-e7d81d0549ab" />
+
